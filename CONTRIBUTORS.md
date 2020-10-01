@@ -1,3 +1,8 @@
+#### Name: Abhishree Verma
+- Place: New Delhi,India
+ - Bio: Student pursuing BTech In IT
+ - GitHub: [abhishree07](https://github.com/abhishree07)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
